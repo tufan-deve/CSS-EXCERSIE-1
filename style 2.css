@@ -1,0 +1,28 @@
+p{
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+:first-child p1{
+    background-color: black;
+    color: red;
+    text-decoration: double;
+}
+ p2{
+    background-color: black;
+    color: red;
+ }
+p4{
+    background-color: blue;
+    color: white;
+    text-decoration: wavy;
+ }
+ p5{
+    background-color: blueviolet;
+    color: yellowgreen;
+ }
+
+ div{
+    text-align: center;
+ }
+ 
